@@ -60,3 +60,4 @@ Database terdiri dari tiga tabel utama:
 - **DELETE**: Data dihapus berdasarkan ID.
 
 # Dokumentasi
+https://github.com/user-attachments/assets/f8f4ec29-8ab3-4c8e-94a6-72031f4a8078
